@@ -1,0 +1,2 @@
+# RubyEachMethod
+eachメソッド
